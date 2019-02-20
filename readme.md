@@ -13,7 +13,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
     <div class="container" style="padding-top:45px">
         <div class="row">
             <div class="col-sm-7">
-                <h1 class="mt-2">Azure DevOps Hands-On Labs</h1>
+                <h1 class="mt-2">Azure DevOps Hands-On Labs </h1>
                 <div class="herotext2">
                     <p>Evaluating your next DevOps tool chain? Want to dive deeper and learn how you can implement
                         modern DevOps practice?</p>
