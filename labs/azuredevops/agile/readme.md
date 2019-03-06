@@ -569,3 +569,46 @@ In this task we'll create a new process that inherits from Scrum. The one change
     ![](images/126.png)
 
 1. Once the work item is saved, Azure DevOps will also save the new custom information so that it will be available for queries and through the rest of Azure DevOps.
+<div class="col-sm-12">
+<b>You may also be interested in trying out the following labs</b>
+                                <div class="row equal-height-columns">                                          
+                                    <div class="col-sm-3 col-xs-12 p-l-r-override">
+                                        <div class="bg-color-white equal-height-column">
+                                            <ul class="p-l-5px">                                                
+                                                <li class="osslist"><img src="/images/azurerepos.png" style="height:42px!important;border:none!important;margin:2px 10px 2px 0px!important" class="icon-bor-p-m" />
+                                                    <a href="/labs/azuredevops/git/" class="fon-size-13">Version
+                                                        Controlling with Azure Repos </a></li>                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 col-xs-12 p-l-r-override">
+                                        <div class="bg-color-white equal-height-column">
+                                            <ul class="p-l-5px">                                                
+                                                <li class="osslist"><img src="/images/azurepipelines.png" style="height:42px!important;border:none!important;margin:2px 10px 2px 0px!important"
+                                                        class="icon-bor-p-m" /><a href="/labs/azuredevops/continuousdeployment/"
+                                                        class="fon-size-13">Embracing Continuous Delivery with Azure
+                                                        Pipelines</a></li>                                               
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 col-xs-12 p-l-r-override">
+                                        <div class="bg-color-white equal-height-column">
+                                            <ul class="p-l-5px">                                                
+                                                <li class="osslist"><img src="/images/azuretestplans.png" style="height:42px!important;border:none!important;margin:2px 10px 2px 0px!important"
+                                                        class="icon-bor-p-m" />
+                                                    <a href="/labs/azuredevops/load/" class="fon-size-13">Web
+                                                        Application Load and Performance Testing</a></li>                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-sm-3 col-xs-12 p-l-r-override">
+                                        <div class="bg-color-white equal-height-column">
+                                            <ul class="p-l-5px">                                                
+                                                <li class="osslist"><img src="/images/wiki.png" style="height:42px!important;border:none!important;margin:2px 10px 2px 0px!important" class="icon-bor-p-m" />
+                                                    <a href="/labs/azuredevops/wiki/" class="fon-size-13">Collaborating
+                                                        with Azure DevOps Wiki</a></li>                                                
+                                            </ul>
+                                        </div>
+                                    </div>
+                                </div>
+                                </div>
