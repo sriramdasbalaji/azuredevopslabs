@@ -39,13 +39,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
   <!-- The slideshow -->
   <div class="carousel-inner">
     <div class="carousel-item active">
-      <img src="/images/banner-3.png" alt="slide1">
+      <img src="/images/banner-3.png" alt="slide1" class="img-fluid">
     </div>
     <div class="carousel-item">
-      <img src="/images/banner-2.png" alt="slide2">
+      <a href="https://go.microsoft.com/fwlink/?LinkId=2014881">
+      <img src="/images/banner-2-circle-img.png" alt="slide2" class="img-fluid"></a>
     </div>
     <div class="carousel-item">
-      <img src="/images/banner-1.png" alt="slider3">
+      <img src="/images/banner-1.png" alt="slider3" class="img-fluid">
     </div>
   </div>
 
@@ -148,120 +149,68 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                                         </div>
                                     </div>
                                 </div>
-                                </div>   
-                                <div class="col-md-12">
+                                </div> 
+                                <div class="col-sm-12 pading-t-10 pb-2">
+                                <h4 class="border-0 fon-normal">Looking for labs on Azure DevOps Server?</h4>
+ <p><a href="/labs/tfs/"> Click here </a>to explore Azure DevOps Server labs</p> 
+                                </div>          
+  <div class="container px-3 pb-3 pt-1 rounded">
+  <div class="row">
+  <div class="col-md-12">
                <h2 class="border-0 fon-normal">Featured Labs</h2>
-<div class="carousel mt-3" data-flickity='{ "groupCells": true, "pageDots": false } '>
-  <div class="carousel-cell">  
-    <div class="row">
-      <div class="col-sm-12">
-	  <div class="col-sm-6 offset-md-3 text-center">
-        <a href="/labs/azuredevops/agile/">
-		<img src="/images/azureboards.png" width="50" alt="agile-planning">
-		</a>
-		</div>
-      </div>
+</div>
+</div>
+ <div class="row mr-0">
+<div class="col-sm-2 pr-0">
+    <div class="border rounded py-2 px-1 text-center h-100 bg-white">
+    <a href="/labs/azuredevops/agile/">
+        <img src="/images/azureboards.png" width="50" alt="agile-planning">
+        <p class="mb-0 txt-col pt-1">Agile Planning and Portfolio Management with Azure Boards</p>
+	</a>
     </div>
-    <div class="row mt-3">
-      <div class="col-sm-12 text-center">
-	  <a href="/labs/azuredevops/agile/">
-        <p class="mb-0 txt-col">Agile Planning and Portfolio Management with Azure Boards</p>
-		</a>
-      </div>
-    </div>
-  </div>
-  <div class="carousel-cell">
-    <div class="row">
-      <div class="col-sm-12">
-	  <div class="col-sm-6 offset-md-3 text-center">
-	  <a href="/labs/azurerepos/git/">
+</div>   
+<div class="col-sm-2 pr-0">
+    <div class="border rounded py-2 px-1 text-center h-100 bg-white">
+    <a href="/labs/azuredevops/git/">
         <img src="/images/azurerepos.png" width="50" alt="git-image">
-		</a>
-		</div>
-      </div>
+        <p class="mb-0 txt-col pt-1">Version Control with Git in Azure Repos</p>
+	</a>
     </div>
-    <div class="row mt-3">
-      <div class="col-sm-12 text-center">
-	  <a href="/labs/azuredevops/git/">
-        <p class="mb-0 txt-col">Version Control with Git in Azure Repos</p>
-		</a>
-      </div>
-    </div>
-  </div>
-  <div class="carousel-cell">
-    <div class="row">
-      <div class="col-sm-12">
-	  <div class="col-sm-6 offset-md-3 text-center">
-	  <a href="/labs/azuredevops/continuousintegration/">
+</div>
+<div class="col-sm-2 pr-0">
+    <div class="border rounded py-2 px-1 text-center h-100 bg-white">
+    <a href="/labs/azuredevops/continuousintegration/">
         <img src="/images/azurepipelines.png" width="50" alt="azure">
-		</a>
-		</div>
-      </div>
+        <p class="mb-0 txt-col pt-1">Enabling Continuous Integration with Azure Pipelines</p>
+	</a>
     </div>
-    <div class="row mt-3">
-      <div class="col-sm-12 text-center">
-	  <a href="/labs/azuredevops/continuousintegration/">
-        <p class="mb-0 txt-col">Enabling Continuous Integration with Azure Pipelines</p>
-		</a>
-      </div>
-    </div>
-  </div>
-  <div class="carousel-cell">
-    <div class="row">
-      <div class="col-sm-12">
-	  <div class="col-sm-6 offset-md-3 text-center">
-	  <a href="/labs/azuredevops/continuousdeployment/">
+</div>    
+<div class="col-sm-2 pr-0">
+    <div class="border rounded py-2 px-1 text-center h-100 bg-white">
+    <a href="/labs/azuredevops/continuousdeployment/">
         <img src="/images/azurepipelines.png" width="50" alt="azureDevOpsDelivery">
-		</a>
-		</div>
-      </div>
+        <p class="mb-0 txt-col pt-1">Embracing Continuous Delivery with Azure Pipelines</p>
+	</a>
     </div>
-    <div class="row mt-3">
-      <div class="col-sm-12 text-center">
-	  <a href="/labs/azuredevops/continuousdeployment/">
-        <p class="mb-0 txt-col">Embracing Continuous Delivery with Azure Pipelines</p>
-		</a>
-      </div>
+</div>
+<div class="col-sm-2 pr-0">
+    <div class="border rounded py-2 px-1 text-center h-100 bg-white">
+    <a href="/labs/vstsextend/github-integration/">	
+        <img src="/images/azurepipelines.png" width="50" alt="git">  
+        <p class="mb-0 txt-col pt-1">Integrate your GitHub Projects with Azure Pipelines</p>
+	</a>
     </div>
-  </div>
-  <div class="carousel-cell">  
-    <div class="row">
-      <div class="col-sm-12">
-	  <div class="col-sm-6 offset-md-3 text-center">
-        <a href="/labs/vstsextend/github-integration/">
-		<img src="/images/azurepipelines.png" width="50" alt="git">
-		</a>
-		</div>
-      </div>
-    </div>
-    <div class="row mt-3">
-      <div class="col-sm-12 text-center">
-	  <a href="/labs/vstsextend/github-integration/">	  
-        <p class="mb-0 txt-col">Integrate your GitHub Projects with Azure Pipelines</p>
-		</a>
-      </div>
-    </div>
-  </div>
-  <div class="carousel-cell">
-    <div class="row">
-      <div class="col-sm-12">
-	  <div class="col-sm-6 offset-md-3 text-center">
-	  <a href="/labs/vstsextend/jenkins/">
+</div>  
+<div class="col-sm-2 pr-0">
+    <div class="border rounded py-2 px-1 text-center h-100 bg-white">
+    <a href="/labs/vstsextend/jenkins/">
         <img src="/images/jenkins.png" width="50" alt="jenkins">
-		</a>
-		</div>
-      </div>
-    </div>
-    <div class="row mt-3">
-      <div class="col-sm-12 text-center">
-	  <a href="/labs/vstsextend/jenkins/">
-        <p class="mb-0 txt-col">Integrating with Jenkins</p>
-		</a>
-      </div>
-    </div>
-  </div>
-  </div>
-  </div>                          
+        <p class="mb-0 txt-col pt-1">Integrating with Jenkins</p>
+	</a>
+    </div>    
+</div>
+</div>
+</div>                        
                             <div class="col-sm-12 col-xs-12 pading-t-20">
                                 <h2 class="border-0 fon-normal">Deep Dive into Azure DevOps</h2>
                                 <p>Azure DevOps provides integration with popular open source and third-party tools and
@@ -423,12 +372,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                                         services organization.
                                     </li>
                                 </ul>
-                            </div>
-                          <div class="col-sm-12 pading-t-10">
-                                <h2 class="border-0 fon-normal">Looking for labs on Azure DevOps Server?</h2>
- <p><a href="/labs/tfs/" class="btn btn-primary"><i class="fa fa-external-link"></i> View Azure DevOps Server Labs</a></p>        
-
-                                </div>        
+                            </div>                               
     </div>
     </div>
 </div>

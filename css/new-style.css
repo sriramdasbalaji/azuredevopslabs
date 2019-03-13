@@ -482,3 +482,12 @@ iframe{
   outline: none !important;
 
 }
+.row-flex {
+  display: flex;
+  flex-wrap: wrap;
+}
+.content-height {
+  height: 100%;
+  
+  
+}  
