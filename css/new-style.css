@@ -487,7 +487,9 @@ iframe{
   flex-wrap: wrap;
 }
 .content-height {
-  height: 100%;
-  
-  
+    height: 100%;  
 }  
+.img-fluid{
+width:100%;
+height:auto;
+}
