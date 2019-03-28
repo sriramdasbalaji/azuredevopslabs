@@ -38,16 +38,29 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 
   <!-- The slideshow -->
   <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="/images/banner-3.png" alt="slide1" class="img-fluid">
+    <div class="carousel-item active">     
+      <div class="banner1 p-5">
+      <h1 class="text-white">What is DevOps?</h1>
+      <p class="text-white mb-1">DevOps is the union of people, and products to enable<br>
+continuous delivery of value to your end users.</p>
+<p class="text-white"><b>Donovan Brown</b></p>
+      </div>
+    </div>
+    <div class="carousel-item">      
+       <div class="banner2">
+      <h1 class="text-white">New to Azure DevOps?</h1>
+      <p class="text-white mb-0">Don't have an account? No worries! Sign up for free Azure DevOps Organization<br>
+<a href="https://go.microsoft.com/fwlink/?LinkId=2014881" class="btn btn-sm btn-primary mt-1">Sign Up for free now</a></p>
+      </div>
     </div>
     <div class="carousel-item">
-      <a href="https://go.microsoft.com/fwlink/?LinkId=2014881">
-      <img src="/images/banner-2-circle-img.png" alt="slide2" class="img-fluid"></a>
-    </div>
-    <div class="carousel-item">
-      <img src="/images/banner-1.png" alt="slider3" class="img-fluid">
-    </div>
+      <div class="banner3">
+      <h1 class="text-white">Azure DevOps Server Labs available now</h1>
+      <p class="text-white">Learn how you can remove barriers between teams, encourage collaboration, and improve the flow of value to your customers.<br>
+      <a href="/labs/devopsserver/" class="btn btn-sm btn-primary mt-1">Start Learning</a>
+</p>
+      </div>
+    </div> 
   </div>
 
   <!-- Left and right controls -->
@@ -78,7 +91,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                                 </div> 
                                 <div class="col-sm-12">
                                 <div class="row equal-height-columns">                                          
-                                    <div class="col-sm-3 col-xs-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"><img src="/images/azureboards.png" height="42"
@@ -96,7 +109,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3 col-xs-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"><img src="/images/azurepipelines.png" height="42"
@@ -114,7 +127,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3 col-xs-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"><img src="/images/azuretestplans.png" height="42"
@@ -131,7 +144,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3 col-xs-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"><img src="/images/azuredevops.png" height="42"
@@ -152,7 +165,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                                 </div> 
                                 <div class="col-sm-12 pading-t-10 pb-2">
                                 <h4 class="border-0 fon-normal">Looking for labs on Azure DevOps Server?</h4>
- <p><a href="/labs/tfs/"> Click here </a>to explore Azure DevOps Server labs</p> 
+ <p><a href="/labs/devopsserver/"> Click here </a>to explore Azure DevOps Server labs</p> 
                                 </div>          
   <div class="container px-3 pb-3 pt-1 rounded">
   <div class="row">
@@ -161,7 +174,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 </div>
 </div>
  <div class="row mr-0">
-<div class="col-sm-2 pr-0">
+<div class="col-md-2 col-sm-4 col-xs-6 pr-0">
     <div class="border rounded py-2 px-1 text-center h-100 bg-white">
     <a href="/labs/azuredevops/agile/">
         <img src="/images/azureboards.png" width="50" alt="agile-planning">
@@ -169,7 +182,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 	</a>
     </div>
 </div>   
-<div class="col-sm-2 pr-0">
+<div class="col-md-2 col-sm-4 col-xs-6 pr-0">
     <div class="border rounded py-2 px-1 text-center h-100 bg-white">
     <a href="/labs/azuredevops/git/">
         <img src="/images/azurerepos.png" width="50" alt="git-image">
@@ -177,7 +190,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 	</a>
     </div>
 </div>
-<div class="col-sm-2 pr-0">
+<div class="col-md-2 col-sm-4 col-xs-6 pr-0">
     <div class="border rounded py-2 px-1 text-center h-100 bg-white">
     <a href="/labs/azuredevops/continuousintegration/">
         <img src="/images/azurepipelines.png" width="50" alt="azure">
@@ -185,7 +198,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 	</a>
     </div>
 </div>    
-<div class="col-sm-2 pr-0">
+<div class="col-md-2 col-sm-4 col-xs-6 pr-0">
     <div class="border rounded py-2 px-1 text-center h-100 bg-white">
     <a href="/labs/azuredevops/continuousdeployment/">
         <img src="/images/azurepipelines.png" width="50" alt="azureDevOpsDelivery">
@@ -193,7 +206,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 	</a>
     </div>
 </div>
-<div class="col-sm-2 pr-0">
+<div class="col-md-2 col-sm-4 col-xs-6 pr-0">
     <div class="border rounded py-2 px-1 text-center h-100 bg-white">
     <a href="/labs/vstsextend/github-integration/">	
         <img src="/images/azurepipelines.png" width="50" alt="git">  
@@ -201,7 +214,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 	</a>
     </div>
 </div>  
-<div class="col-sm-2 pr-0">
+<div class="col-md-2 col-sm-4 col-xs-6 pr-0">
     <div class="border rounded py-2 px-1 text-center h-100 bg-white">
     <a href="/labs/vstsextend/jenkins/">
         <img src="/images/jenkins.png" width="50" alt="jenkins">
@@ -222,7 +235,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                             <div class="col-sm-12 mar-bot">
                                 <!-- <h3 id="step-by-step-tutorials">Step-by-Step Tutorials</h3>  -->
                                 <div class="row equal-height-columns">
-                                    <div class="col-sm-3 col-xs-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/launchdarkly.png" height="42" class="icon-bor-p-m" /><a
@@ -249,7 +262,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3 col-xs-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                  <li class="osslist"><img src="/images/teams.png" height="42"
@@ -278,7 +291,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3 col-xs-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                  <li class="osslist"> <img src="/images/github-azurepipelines.png" height="42"
@@ -304,7 +317,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-sm-3 col-xs-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/github-azureboards.png" height="42"

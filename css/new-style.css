@@ -10,7 +10,7 @@ nav {
   position: fixed;
   top: 0;
   left: 0;
-  background: #0078d7!important;
+  background: #000000!important;
   width: 100%;
 }
 .visible-title {
@@ -492,4 +492,38 @@ iframe{
 .img-fluid{
 width:100%;
 height:auto;
+}
+.banner1{
+  background-image: url(/images/Banner_1.png);
+  padding-left: 0px;
+  background-clip: border-box;
+  /*background-position: left top;*/
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+  height: 280px;
+  width: 100%;
+}
+
+.banner2{
+  background-image: url(/images/Banner_2.png);
+  padding-left: 0px;
+  background-clip: border-box;
+  /*background-position: left 101%;*/
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+  height: 280px;
+  width: 100%;
+}
+.banner3{
+  background-image: url(/images/Banner_3.png);
+  padding-left: 0px;
+  background-clip: border-box;
+  /*background-position: left 101%;*/
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-attachment: fixed;
+  height: 280px;
+  width: 100%;
 }

@@ -1,166 +1,131 @@
 ---
-title: ALM VM 2018 - Hands-on-Labs 
+title: Azure DevOps Server - Hands-on-Labs 
 layout: homepage
-permalink: /labs/tfs/
+permalink: /labs/devopsserver/
 comments: true
-folder: /labs/tfs/
+folder: /labs/devopsserver/
 landing-page: false
-description: Learn how you can remove barriers between teams, encourage collaboration, and improve the flow of value to your customers with Visual Studio and Team Foundation Server
+description: Learn how you can remove barriers between teams, encourage collaboration, and improve the flow of value to your customers with Visual Studio and Azure DevOps Server
 ---
             
             
-<div class="bg-image-lab" style="padding-top:60px;padding-bottom:10px">
-    <div class="container">
+<div class="container-fluid">
         <div class="row">
-            <div class="col-sm-12">
-            <h1>Azure DevOps Server</h1>
-            <p>
-       Learn how you can remove barriers between teams, encourage collaboration, and improve the
-       flow of value to your customers with Visual Studio and Team Foundation Server.
-               </p>
+            <div class="col-sm-12 px-0">
+            <img src="/images/banner-for-devops-server.png" alt="DevOps Server hands on labs" class="img-fluid">
             </div> 
         </div>
         </div>
-        </div> 
+       
 <div class="container">
 <div class="row">
                         <div class="col-sm-12" style="margin-top:10px;">				                     
                                 <h2 class="border-0 fon-normal">Agile Planning</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azureboards.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/agile/" class="fon-size-13">Agile
-                                                        Planning and Portfolio Management </a></li>
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/agile/" class="fon-size-13"> Agile Planning and Portfolio Management </a></li>
                                             </ul>
                                         </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    </div>                                    
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azureboards.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/agileworkitems/"
-                                                        class="fon-size-13">Agile Work Item Management </a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azureboards.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/smartword4tfs/" class="fon-size-13">Introduction
-                                                        to the Modern Requirements Suite4TFS</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azureboards.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/deliveryplans/" class="fon-size-13">Managing
+                                                <li class="osslist"> <img src="/images/deliveryplans2.png" height="42"
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/deliveryplans/" class="fon-size-13">Managing
                                                         Delivery Plans</a></li>
                                             </ul>
                                         </div>
                                     </div>
+                                         <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
+                                        <div class="bg-color-white equal-height-column">
+                                            <ul class="p-l-5px">
+                                                <li class="osslist"> <img src="/images/wiki2.png" height="42"
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/wiki/" class="fon-size-13"> Collaboration Experiences for Development Teams with Wiki </a></li>
+                                            </ul>
+                                        </div>
+                                    </div> 
                                 </div>
                             </div>
                             <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Develop</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/wiki.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/devteamcollaboration/" class="fon-size-13">Collaboration
-                                                        Experiences for Development Teams with Wiki</a> </li>
-                                                <li class="osslist"> <img src="/images/overview.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/devexp/" class="fon-size-13">Developer
-                                                        Experience Enhancements</a> </li>
-                                                <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/vsproductivity/" class="fon-size-13"> Making
+                                            <ul class="p-l-5px"> 
+                                            <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
+                                                        href="/labs/devopsserver/vsproductivity/" class="fon-size-13"> Making
                                                         Developers More Productive</a> </li>
-                                                <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/editorconfig/" class="fon-size-13"> Working
-                                                        with EditorConfig</a> </li>
+                                            <li class="osslist"> <img src="/images/azuretestplans.png" height="42"                                                class="icon-bor-p-m" /><a href="/labs/devopsserver/intellitest/" class="fon-size-13">Generate
+                                                        Unit Tests with IntelliTest</a> </li>  
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/debugging/" class="fon-size-13">Debugging with
+                                                        href="/labs/devopsserver/debugging/" class="fon-size-13">Debugging with
                                                         IntelliTrace </a> </li>
-                                                <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/intellitest/" class="fon-size-13">Generate
-                                                        Unit Tests with IntelliTest</a> </li>
-                                                <li class="osslist"> <img src="/images/azure-42.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/sqlprompt/" class="fon-size-13"> SQL Prompt</a>
-                                                </li>
+                                                        <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
+                                                        href="/labs/devopsserver/codeanalysis/" class="fon-size-13"> Using Code
+                                                        Analysis to Improve Code Quality</a> </li>                                                                                              
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/snapshotdebugger/" class="fon-size-13">Debugging
-                                                        with Snapshot Debugger</a> </li>
+                                            <ul class="p-l-5px">                                                
                                                 <li class="osslist"> <img src="/images/validation.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/livedependencyvalidation/" class="fon-size-13">Live
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/livedependencyvalidation/" class="fon-size-13">Live
                                                         Dependency Validation</a> </li>
-                                                <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/codeanalysis/" class="fon-size-13"> Using Code
-                                                        Analysis to Improve Code Quality</a> </li>
+                                                        <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/liveunittesting/"
+                                                        class="fon-size-13">Live Unit Testing, Code Coverage and Code
+                                                        Clone Analysis</a> </li>                                                   
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/intellitrace/" class="fon-size-13">Diagnosing
-                                                        Issues in Production with IntelliTrace</a> </li>
-                                                <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/liveunittesting/"
-                                                        class="fon-size-13">Live Unit Testing, Code Coverage and Code
-                                                        Clone Analysis</a> </li>
-                                                <li class="osslist"> <img src="/images/azurerepos.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/git/" class="fon-size-13">
-                                                        Version Control with Git </a> </li>
+                                                        href="/labs/devopsserver/intellitrace/" class="fon-size-13">Diagnosing
+                                                        Issues in Production with IntelliTrace</a> </li>                                                                                           
                                             </ul>
                                         </div>
                                     </div>
                                 </div>
                             </div>
                             <div class="col-sm-12">
-                                <h2 class="border-0 fon-normal">Continuous Integration</h2>
-                                <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/technicaldebt/" class="fon-size-13">Managing
-                                                        Technical Debt with SonarQube </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azureartifacts.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/packagemanagement/"
-                                                        class="fon-size-13">Package Management </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                <h2 class="border-0 fon-normal">Azure Pipelines</h2>
+                                <div class="row equal-height-columns">   
+                                 <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azurepipelines.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/build/" class="fon-size-13">Enabling
-                                                        Continuous Integration </a> </li>
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/build/" class="fon-size-13">Introduction to Build Pipelines </a> </li>
+                                            </ul>
+                                        </div>
+                                    </div>  
+                                     <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
+                                        <div class="bg-color-white equal-height-column">
+                                            <ul class="p-l-5px">
+                                                <li class="osslist"> <img src="/images/azurepipelines.png" height="42"
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/releasemanagement/"
+                                                        class="fon-size-13">Embracing Continuous Delivery with Release
+                                                        Pipelines </a> </li>
+                                            </ul>
+                                        </div>
+                                    </div>                                      
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
+                                        <div class="bg-color-white equal-height-column">
+                                            <ul class="p-l-5px">
+                                                <li class="osslist"> <img src="/images/azureartifacts.png" height="42"
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/packagemanagement/"
+                                                        class="fon-size-13">Package Management </a> </li>
                                             </ul>
                                         </div>
                                     </div>
@@ -169,45 +134,40 @@ description: Learn how you can remove barriers between teams, encourage collabor
                             <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Test Management and Execution</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/liveunittesting/"
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/liveunittesting/"
                                                         class="fon-size-13">Unit Testing, Code Coverage and Code Clone
                                                         Analysis </a> </li>
-                                                <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/codedui/" class="fon-size-13">UI
-                                                        Automation using Coded UI Tests</a> </li>
-                                            </ul>
+                                                </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/intellitest/" class="fon-size-13">Generate
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/intellitest/" class="fon-size-13">Generate
                                                         Unit Tests with IntelliTest</a> </li>
-                                                <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/load/" class="fon-size-13">Web
-                                                        Application Load and Performance Testing </a> </li>
                                             </ul>
                                         </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    </div>                                    
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/manualtesting/" class="fon-size-13">Test
-                                                        Planning and Management </a> </li>
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/exploratorytesting/"
+                                                        class="fon-size-13">Exploratory Testing and Feedback Management
+                                                    </a> </li>
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/exploratorytesting/"
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/testmanagement/"
                                                         class="fon-size-13">Exploratory Testing and Feedback Management
                                                     </a> </li>
                                             </ul>
@@ -215,38 +175,29 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                     </div>
                                 </div>
                             </div>
-                            <div class="col-sm-12">
+                            <!-- <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Continuous Delivery</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azurepipelines.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/tfs/releasemanagement/"
+                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/releasemanagement/"
                                                         class="fon-size-13">Embracing Continuous Delivery with Release
                                                         Management </a> </li>
                                             </ul>
                                         </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azure-42.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/readyroll/" class="fon-size-13">Develop and
-                                                        Deploy Databases with ReadyRoll</a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
+                                    </div>                                                                   
                                 </div>
-                            </div>
+                            </div> -->
                             <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Application Monitoring</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azure-42.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/appinsights/" class="fon-size-13">Instrumenting
+                                                <li class="osslist"> <img src="/images/appinsights.png" height="42" class="icon-bor-p-m" /><a
+                                                        href="/labs/devopsserver/wiki/" class="fon-size-13">Instrumenting
                                                         ASP.NET with Application Insights </a> </li>
                                             </ul>
                                         </div>
@@ -256,21 +207,28 @@ description: Learn how you can remove barriers between teams, encourage collabor
                             <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Azure</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azure-42.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/armtemplates/" class="fon-size-13">Authoring
+                                                <li class="osslist"> <img src="/images/armlogo.png" height="42" class="icon-bor-p-m" /><a
+                                                        href="/labs/devopsserver/armtemplates/" class="fon-size-13">Authoring
                                                         ARM Templates with Visual Studio </a> </li>
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
+                                        <div class="bg-color-white equal-height-column">
+                                            <ul class="p-l-5px">
+                                                <li class="osslist"> <img src="/images/webappsql.png" height="42" class="icon-bor-p-m" /><a
+                                                        href="/labs/devopsserver/aspnetazure/" class="fon-size-13">Building ASP.NET apps in Azure with SQL Database</a> </li>
+                                            </ul>
+                                        </div>
+                                    </div>
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azure-42.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/tfs/aspnetazure/" class="fon-size-13">Deploying a
-                                                        SQL Database Backed ASP.NET App to Azure </a> </li>
+                                                        href="/labs/devopsserver/azureserviceprincipal/" class="fon-size-13">Azure Service Principal</a> </li>
                                             </ul>
                                         </div>
                                     </div>

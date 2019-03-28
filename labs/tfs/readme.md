@@ -27,7 +27,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                         <div class="col-sm-12" style="margin-top:10px;">				                     
                                 <h2 class="border-0 fon-normal">Agile Planning</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azureboards.png" height="42"
@@ -36,7 +36,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azureboards.png" height="42"
@@ -45,7 +45,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azureboards.png" height="42"
@@ -54,7 +54,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azureboards.png" height="42"
@@ -68,7 +68,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                             <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Develop</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/wiki.png" height="42" class="icon-bor-p-m" /><a
@@ -86,7 +86,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
@@ -101,7 +101,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
@@ -116,7 +116,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
@@ -137,7 +137,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                             <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Continuous Integration</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
@@ -146,7 +146,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azureartifacts.png" height="42"
@@ -155,7 +155,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azurepipelines.png" height="42"
@@ -169,7 +169,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                             <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Test Management and Execution</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
@@ -182,7 +182,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
@@ -194,7 +194,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
@@ -203,7 +203,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
@@ -218,7 +218,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                             <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Continuous Delivery</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azurepipelines.png" height="42"
@@ -228,7 +228,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azure-42.png" height="42" class="icon-bor-p-m" /><a
@@ -242,7 +242,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                             <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Application Monitoring</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azure-42.png" height="42" class="icon-bor-p-m" /><a
@@ -256,7 +256,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                             <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Azure</h2>
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azure-42.png" height="42" class="icon-bor-p-m" /><a
@@ -265,7 +265,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-12 p-l-r-override">
+                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/azure-42.png" height="42" class="icon-bor-p-m" /><a
