@@ -38,29 +38,28 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 
   <!-- The slideshow -->
   <div class="carousel-inner">
-    <div class="carousel-item active">     
-      <div class="banner1 p-5">
+    <div class="carousel-item active banner1">     
+      <div class="text-center p-t-60px">
       <h1 class="text-white">What is DevOps?</h1>
       <p class="text-white mb-1">DevOps is the union of people, and products to enable<br>
 continuous delivery of value to your end users.</p>
-<p class="text-white"><b>Donovan Brown</b></p>
       </div>
     </div>
-    <div class="carousel-item">      
-       <div class="banner2">
+    <div class="carousel-item banner2">      
+       <div class="text-center p-t-60px">
       <h1 class="text-white">New to Azure DevOps?</h1>
       <p class="text-white mb-0">Don't have an account? No worries! Sign up for free Azure DevOps Organization<br>
 <a href="https://go.microsoft.com/fwlink/?LinkId=2014881" class="btn btn-sm btn-primary mt-1">Sign Up for free now</a></p>
       </div>
     </div>
-    <div class="carousel-item">
-      <div class="banner3">
+    <div class="carousel-item banner3">
+      <div class="text-center p-t-60px">
       <h1 class="text-white">Azure DevOps Server Labs available now</h1>
       <p class="text-white">Learn how you can remove barriers between teams, encourage collaboration, and improve the flow of value to your customers.<br>
       <a href="/labs/devopsserver/" class="btn btn-sm btn-primary mt-1">Start Learning</a>
 </p>
       </div>
-    </div> 
+    </div>  
   </div>
 
   <!-- Left and right controls -->
@@ -80,7 +79,7 @@ continuous delivery of value to your end users.</p>
 <div class="container-fluid">
     <div class="row">
     <div class="container">  
-        <div class="col-sm-12 pading-t-20">
+        <div class="col-sm-12 pading-t-10">
            <h1>Azure DevOps</h1>                                                           
                                  <p>Simplify and speed up the DevOps process with Azure DevOps services. The
                             following labs will help you to get started with Azure DevOps services to automate software
