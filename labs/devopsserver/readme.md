@@ -237,22 +237,21 @@ description: Learn how you can remove barriers between teams, encourage collabor
                             <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Get the accompanying VM</h2>
                                 <p>To make it easy for you to follow the labs, we offer a virtual machine pre-installed
-                                    with Visual Studio Enterprise 2017 (15.5), Visual Studio Team Foundation Server
-                                    2018, Office and pre-configured with sample projects, users and data.</p>
+                                    with Azure DevOps Server 2019, Visual Studio Enterprise 2019, Office and pre-configured with sample projects, users and data.</p>
                                 <p>You can get access to the virtual machine the following ways:</p>
                                 <ul>
                                     <li>
                                         <strong>Download the Virtual Machine</strong> - You can download the virtual
                                         machine, if you prefer to use it offline. The size of the download is about 18
                                         GB and we highly recommend that you use a download manager to download the VHD
-                                        file. The <strong><a href="labs/tfs/almvmdownload\">Accessing the VM</a></strong>
+                                        file. The <strong><a href="labs/devopsserver/devopsvmdownload/">Accessing the VM</a></strong>
                                         page has detailed instructions on downloading the VM, including links to both
                                         current and the previous versions of TFS labs.
                                     </li>
                                     <li>
                                         <strong>Try it on Microsoft Hands-on Labs</strong> - If you are evaluating or
                                         want to try the labs without the hassle of downloading or setting up the
-                                        virtual machine, you can access them from the <a href="labs/tfs/technet/"><strong>Microsoft
+                                        virtual machine, you can access them from the <a href="labs/devopsserver/handsonlabs/"><strong>Microsoft
                                                 Hands-on-Labs</strong></a> center. You only need a browser. There is
                                         absolutely no download or setup required!
                                     </li>

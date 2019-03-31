@@ -9,6 +9,8 @@ landingpage: false
 description: Learn how you can implement modern DevOps practices with Azure, Azure DevOps Services and Team Foundation Server.
 ---
 
+
+
 <!-- <div class="bg-image">
     <div class="container" style="padding-top:45px">
         <div class="row">
@@ -41,7 +43,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
     <div class="carousel-item active banner1">     
       <div class="text-center p-t-60px">
       <h1 class="text-white">What is DevOps?</h1>
-      <p class="text-white mb-1">DevOps is the union of people, and products to enable<br>
+      <p class="text-white mb-1">DevOps is the union of people, process and technology to enable<br>
 continuous delivery of value to your end users.</p>
       </div>
     </div>
@@ -78,18 +80,15 @@ continuous delivery of value to your end users.</p>
 
 <div class="container-fluid">
     <div class="row">
-    <div class="container">  
-        <div class="col-sm-12 pading-t-10">
-           <h1>Azure DevOps</h1>                                                           
-                                 <p>Simplify and speed up the DevOps process with Azure DevOps services. The
-                            following labs will help you to get started with Azure DevOps services to automate software
-                            delivery and meet business needs.</p>   
-        </div>                                                            
+    <div class="container">                                                          
   <div class="col-sm-12 col-xs-12">    
-                                 <h2 class="border-0 fon-normal">Getting started</h2> 
+                                 <h2 class="border-0 fon-normal">Getting started with Azure DevOps</h2> 
+                                  <p>Simplify and speed up the DevOps process with Azure DevOps services. The
+                                    following labs will help you to get started with Azure DevOps services to automate software
+                                    delivery and meet business needs.</p>   
                                 </div> 
                                 <div class="col-sm-12">
-                                <div class="row equal-height-columns">                                          
+                                <div class="row equal-height-columns">
                                     <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
@@ -161,11 +160,9 @@ continuous delivery of value to your end users.</p>
                                         </div>
                                     </div>
                                 </div>
-                                </div> 
-                                <div class="col-sm-12 pading-t-10 pb-2">
-                                <h4 class="border-0 fon-normal">Looking for labs on Azure DevOps Server?</h4>
- <p><a href="/labs/devopsserver/"> Click here </a>to explore Azure DevOps Server labs</p> 
-                                </div>          
+                                </div>
+                                <p><b>Are you using Azure DevOps Server?</b> then  <a href="/labs/devopsserver/"> click here </a>to explore the Azure DevOps Server 2019 labs</p> 
+
   <div class="container px-3 pb-3 pt-1 rounded">
   <div class="row">
   <div class="col-md-12">
