@@ -424,7 +424,7 @@ iframe .flickity-viewport{
   .tab-bg-color li a {font-size: 1.1rem;}
   .col-white-fon-20 {font-size: 16px !important;  }
   .search-icon-css {
-    top: 159px;
+    top: 150px;
     margin-left: -228px;
   }
   
@@ -436,9 +436,11 @@ iframe .flickity-viewport{
   }
   
   #search-demo-container ul#results-container {
-    top: 165px ;
-    right: 224px ;
+    top: 158px;
+    right: 243px;
   }
+  .carousel-control-next, .carousel-control-prev {
+        top: 50px;}
 }
 @media (min-width: 500px) and (max-width: 767px) {
   .bg-image {height:440px!important}.osslist {height:60px!important;}
@@ -448,7 +450,7 @@ iframe .flickity-viewport{
     font-size: 17px !important;
   }
   .search-icon-css {
-    top: 159px;
+    top: 150px;
     margin-left: -228px;
   }
   
@@ -456,20 +458,29 @@ iframe .flickity-viewport{
     float: left;
   }
   #search-demo-container ul#results-container {
-    top: 165px ;
+    top: 159px ;
     right: 302px ;
   }
 }
 @media (min-width: 768px) and (max-width: 991px) {
-  .bg-image {height:330px!important} .osslist {height:150px!important;}
+  .bg-image {height:330px!important} .osslist {height:80px!important;}
   .search-icon-css {
     top: 19px;
     margin-left: 2px;
   }
 }
 @media (min-width: 992px) and (max-width: 1200px) {
+  .banner1{background-position: left 13%!important;} .banner2 {background-position: left 13%!important;} .banner3{background-position: left 13%!important;}
+  .osslist {height:120px!important;} }
+@media (min-width: 576px)  {
+  .search-icon-css {
+    top: 20px;}
+    #search-demo-container ul#results-container {
+      top: 23px;
+      right: 31px;
+  }
+  
 }
-
 
 /* TRANSITION */
 li.osslist:hover {
@@ -499,7 +510,7 @@ height:auto;
   background-clip: border-box;
   background-position: left 9%;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 100% 35%;
   background-attachment: fixed;
   height: 210px;
   width: 100%;
@@ -511,7 +522,7 @@ height:auto;
   background-clip: border-box;
   background-position: left 9%;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 100% 35%;
   background-attachment: fixed;
   height: 210px;
   width: 100%;
@@ -522,7 +533,7 @@ height:auto;
   background-clip: border-box;
   background-position: left 9%;
   background-repeat: no-repeat;
-  background-size: contain;
+  background-size: 100% 35%;
   background-attachment: fixed;
   height: 210px;
   width: 100%;
@@ -530,3 +541,4 @@ height:auto;
 .p-t-60px{
   padding-top:60px;
 }
+.m-t-5px{margin-top:15px}

@@ -81,7 +81,7 @@ continuous delivery of value to your end users.</p>
 <div class="container-fluid">
     <div class="row">
     <div class="container">                                                          
-  <div class="col-sm-12 col-xs-12">    
+  <div class="col-sm-12 col-12">    
                                  <h2 class="border-0 fon-normal">Getting started with Azure DevOps</h2> 
                                   <p>Simplify and speed up the DevOps process with Azure DevOps services. The
                                     following labs will help you to get started with Azure DevOps services to automate software
@@ -89,7 +89,7 @@ continuous delivery of value to your end users.</p>
                                 </div> 
                                 <div class="col-sm-12">
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
+                                    <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"><img src="/images/azureboards.png" height="42"
@@ -107,7 +107,7 @@ continuous delivery of value to your end users.</p>
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
+                                    <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"><img src="/images/azurepipelines.png" height="42"
@@ -125,7 +125,7 @@ continuous delivery of value to your end users.</p>
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
+                                    <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"><img src="/images/azuretestplans.png" height="42"
@@ -142,7 +142,7 @@ continuous delivery of value to your end users.</p>
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
+                                    <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"><img src="/images/azuredevops.png" height="42"
@@ -160,8 +160,9 @@ continuous delivery of value to your end users.</p>
                                         </div>
                                     </div>
                                 </div>
-                                </div>
                                 <p><b>Are you using Azure DevOps Server?</b> then  <a href="/labs/devopsserver/"> click here </a>to explore the Azure DevOps Server 2019 labs</p> 
+                                </div>
+                                
 
   <div class="container px-3 pb-3 pt-1 rounded">
   <div class="row">
@@ -170,7 +171,7 @@ continuous delivery of value to your end users.</p>
 </div>
 </div>
  <div class="row mr-0">
-<div class="col-md-2 col-sm-4 col-xs-6 pr-0">
+<div class="col-lg-2 col-md-4 col-sm-4 col-6 m-t-5px pr-0">
     <div class="border rounded py-2 px-1 text-center h-100 bg-white">
     <a href="/labs/azuredevops/agile/">
         <img src="/images/azureboards.png" width="50" alt="agile-planning">
@@ -178,7 +179,7 @@ continuous delivery of value to your end users.</p>
 	</a>
     </div>
 </div>   
-<div class="col-md-2 col-sm-4 col-xs-6 pr-0">
+<div class="col-lg-2 col-md-4 col-sm-4 col-6 m-t-5px pr-0">
     <div class="border rounded py-2 px-1 text-center h-100 bg-white">
     <a href="/labs/azuredevops/git/">
         <img src="/images/azurerepos.png" width="50" alt="git-image">
@@ -186,7 +187,7 @@ continuous delivery of value to your end users.</p>
 	</a>
     </div>
 </div>
-<div class="col-md-2 col-sm-4 col-xs-6 pr-0">
+<div class="col-lg-2 col-md-4 col-sm-4 col-6 m-t-5px pr-0">
     <div class="border rounded py-2 px-1 text-center h-100 bg-white">
     <a href="/labs/azuredevops/continuousintegration/">
         <img src="/images/azurepipelines.png" width="50" alt="azure">
@@ -194,7 +195,7 @@ continuous delivery of value to your end users.</p>
 	</a>
     </div>
 </div>    
-<div class="col-md-2 col-sm-4 col-xs-6 pr-0">
+<div class="col-lg-2 col-md-4 col-sm-4 col-6 m-t-5px pr-0">
     <div class="border rounded py-2 px-1 text-center h-100 bg-white">
     <a href="/labs/azuredevops/continuousdeployment/">
         <img src="/images/azurepipelines.png" width="50" alt="azureDevOpsDelivery">
@@ -202,7 +203,7 @@ continuous delivery of value to your end users.</p>
 	</a>
     </div>
 </div>
-<div class="col-md-2 col-sm-4 col-xs-6 pr-0">
+<div class="col-lg-2 col-md-4 col-sm-4 col-6 m-t-5px pr-0">
     <div class="border rounded py-2 px-1 text-center h-100 bg-white">
     <a href="/labs/vstsextend/github-integration/">	
         <img src="/images/azurepipelines.png" width="50" alt="git">  
@@ -210,7 +211,7 @@ continuous delivery of value to your end users.</p>
 	</a>
     </div>
 </div>  
-<div class="col-md-2 col-sm-4 col-xs-6 pr-0">
+<div class="col-lg-2 col-md-4 col-sm-4 col-6 m-t-5px pr-0">
     <div class="border rounded py-2 px-1 text-center h-100 bg-white">
     <a href="/labs/vstsextend/jenkins/">
         <img src="/images/jenkins.png" width="50" alt="jenkins">
@@ -220,7 +221,7 @@ continuous delivery of value to your end users.</p>
 </div>
 </div>
 </div>                        
-                            <div class="col-sm-12 col-xs-12 pading-t-20">
+                            <div class="col-sm-12 col-12 pading-t-20">
                                 <h2 class="border-0 fon-normal">Deep Dive into Azure DevOps</h2>
                                 <p>Azure DevOps provides integration with popular open source and third-party tools and
                                     services—across the entire DevOps workflow. Use the tools and languages you know.
@@ -231,7 +232,7 @@ continuous delivery of value to your end users.</p>
                             <div class="col-sm-12 mar-bot">
                                 <!-- <h3 id="step-by-step-tutorials">Step-by-Step Tutorials</h3>  -->
                                 <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
+                                    <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/launchdarkly.png" height="42" class="icon-bor-p-m" /><a
@@ -258,7 +259,7 @@ continuous delivery of value to your end users.</p>
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
+                                    <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                  <li class="osslist"><img src="/images/teams.png" height="42"
@@ -287,7 +288,7 @@ continuous delivery of value to your end users.</p>
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
+                                    <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                  <li class="osslist"> <img src="/images/github-azurepipelines.png" height="42"
@@ -313,7 +314,7 @@ continuous delivery of value to your end users.</p>
                                             </ul>
                                         </div>
                                     </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
+                                    <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
                                         <div class="bg-color-white equal-height-column">
                                             <ul class="p-l-5px">
                                                 <li class="osslist"> <img src="/images/github-azureboards.png" height="42"
