@@ -55,7 +55,7 @@ body {
 }
 
 h1 {
-  font-size: 32px;
+  font-size: 28px;
   font-weight: 400;
   line-height: 1.2;
   margin: 0px !important;
@@ -415,10 +415,12 @@ iframe .flickity-viewport{
 }
 /*Slider CSS end*/
 /*media queries*/
+@media (min-width: 320px) and (max-width: 374px) {
+.banner1{height:282px!important} .banner2{height:282px!important} .banner3{height:282px!important}
+}
 @media (min-width: 375px) and (max-width: 499px) {
   .bg-image {height:477px!important}.osslist {height:60px!important;}
-  .p-l-r-override {padding-right: 15px!important;padding-left: 10px!important;}
-  .bg-of-header {background: #0078d7!important;}
+  .p-l-r-override {padding-right: 15px!important;padding-left: 10px!important;}  
   .flickity-prev-next-button.previous{left:-10px!important;}
   .flickity-prev-next-button.next{right:-10px!important;}
   .tab-bg-color li a {font-size: 1.1rem;}
@@ -441,11 +443,11 @@ iframe .flickity-viewport{
   }
   .carousel-control-next, .carousel-control-prev {
         top: 50px;}
+        .banner1{height:275px!important} .banner2{height:275px!important} .banner3{height:275px!important}
 }
 @media (min-width: 500px) and (max-width: 767px) {
   .bg-image {height:440px!important}.osslist {height:60px!important;}
-  .p-l-r-override {padding-right: 15px!important;padding-left: 10px!important;}
-  .bg-of-header {background: #0078d7!important;}
+  .p-l-r-override {padding-right: 15px!important;padding-left: 10px!important;}  
   .col-white-fon-20 {
     font-size: 17px !important;
   }
@@ -461,6 +463,7 @@ iframe .flickity-viewport{
     top: 159px ;
     right: 302px ;
   }
+  .banner1{height:215px!important} .banner2{height:215px!important} .banner3{height:215px!important}
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .bg-image {height:330px!important} .osslist {height:80px!important;}
@@ -508,35 +511,57 @@ height:auto;
   background-image: url(/images/Banner_1.png);
   padding-left: 0px;
   background-clip: border-box;
-  background-position: left 9%;
   background-repeat: no-repeat;
-  background-size: 100% 35%;
-  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center;
+  /* background-attachment: fixed; */
   height: 210px;
-  width: 100%;
+  max-width: 100%;
 }
 
 .banner2{
   background-image: url(/images/Banner_2.png);
   padding-left: 0px;
   background-clip: border-box;
-  background-position: left 9%;
   background-repeat: no-repeat;
-  background-size: 100% 35%;
-  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center;
+  /* background-attachment: fixed; */
   height: 210px;
-  width: 100%;
+  max-width: 100%;
 }
 .banner3{
   background-image: url(/images/Banner_3.png);
   padding-left: 0px;
   background-clip: border-box;
-  background-position: left 9%;
   background-repeat: no-repeat;
-  background-size: 100% 35%;
-  background-attachment: fixed;
+  background-size: 100% 100%;
+  background-position: center;
+  /* background-attachment: fixed; */
   height: 210px;
-  width: 100%;
+  max-width: 100%;
+}
+.banner2-for-labs{
+  background-image: url(/images/Banner_2.png);
+  padding-left: 0px;
+  background-clip: border-box;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+  /* background-attachment: fixed; */
+  /* height: 210px; */
+  max-width: 100%;
+}
+.banner4{
+  background-image: url(/images/Banner_3.png);
+  padding-left: 0px;
+  background-clip: border-box;
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+  background-position: center;
+  /* background-attachment: fixed; */
+  /* height: 210px; */
+  max-width: 100%;
 }
 .p-t-60px{
   padding-top:60px;
