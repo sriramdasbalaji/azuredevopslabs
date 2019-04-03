@@ -417,6 +417,7 @@ iframe .flickity-viewport{
 /*media queries*/
 @media (min-width: 320px) and (max-width: 374px) {
 .banner1{height:282px!important} .banner2{height:282px!important} .banner3{height:282px!important}
+.banner4{height:245px!important}
 }
 @media (min-width: 375px) and (max-width: 499px) {
   .bg-image {height:477px!important}.osslist {height:60px!important;}
@@ -444,6 +445,7 @@ iframe .flickity-viewport{
   .carousel-control-next, .carousel-control-prev {
         top: 50px;}
         .banner1{height:275px!important} .banner2{height:275px!important} .banner3{height:275px!important}
+        .banner4{height:245px!important}
 }
 @media (min-width: 500px) and (max-width: 767px) {
   .bg-image {height:440px!important}.osslist {height:60px!important;}
@@ -515,7 +517,7 @@ height:auto;
   background-size: 100% 100%;
   background-position: center;
   /* background-attachment: fixed; */
-  height: 210px;
+  height: 250px;
   max-width: 100%;
 }
 
@@ -527,7 +529,7 @@ height:auto;
   background-size: 100% 100%;
   background-position: center;
   /* background-attachment: fixed; */
-  height: 210px;
+  height: 250px;
   max-width: 100%;
 }
 .banner3{
@@ -538,7 +540,7 @@ height:auto;
   background-size: 100% 100%;
   background-position: center;
   /* background-attachment: fixed; */
-  height: 210px;
+  height: 250px;
   max-width: 100%;
 }
 .banner2-for-labs{
@@ -560,10 +562,19 @@ height:auto;
   background-size: 100% 100%;
   background-position: center;
   /* background-attachment: fixed; */
-  /* height: 210px; */
+  height: 210px;
   max-width: 100%;
 }
 .p-t-60px{
   padding-top:60px;
 }
 .m-t-5px{margin-top:15px}
+
+.footerSection1{
+  color: #fff;
+    background-color: #323237;
+}
+.footerSection2{
+  background-color: #1a1a1f;
+    color: #fff;
+}

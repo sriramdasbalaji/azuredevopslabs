@@ -229,7 +229,7 @@ continuous delivery of value to your end users.</p>
                                     faster.
                                 </p>
                             </div>
-                            <div class="col-sm-12 mar-bot">
+                            <div class="col-sm-12">
                                 <!-- <h3 id="step-by-step-tutorials">Step-by-Step Tutorials</h3>  -->
                                 <div class="row equal-height-columns">
                                     <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
@@ -349,7 +349,7 @@ continuous delivery of value to your end users.</p>
                                     </div>
                                 </div>
                             </div>                           
-                            <div class="col-sm-12 pading-t-10">
+                            <!-- <div class="col-sm-12 pading-t-10">
                                 <h2 class="border-0 fon-normal">Prerequisites</h2>
                                 In order to complete these labs you will need:
                                 <ul>
@@ -382,7 +382,7 @@ continuous delivery of value to your end users.</p>
                                         services organization.
                                     </li>
                                 </ul>
-                            </div>                               
+                            </div>                                -->
     </div>
     </div>
 </div>

@@ -11,7 +11,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
 <div class="banner4 text-white">            
 <div class="container">
         <div class="row">
-            <div class="col-sm-12 pt-5 mt-3">
+            <div class="col-sm-12 pt-5 mt-4">
             <h1>Azure DevOps Server Hands-On Labs</h1>
             <p>Learn how you can remove barriers between teams, encourage collaboration, and improve the flow of value to your customers.</p>
             </div> 
