@@ -578,3 +578,48 @@ height:auto;
   background-color: #1a1a1f;
     color: #fff;
 }
+/* New UI changes related css*/
+.bg-secondary {
+  background-color: #fcfcfc!important;
+}
+.icon-cover{
+background-color:#fff;display:inline-block;width:60px;height:60px;border-radius:50%;padding:10px;
+}
+a.text-col-gunpower{
+color:#505055!important;
+}
+a.text-col-gunpower:hover{
+color:#007bff!important;
+text-decoration:none!important;
+}
+.hover-effect{
+transition: all 0.3s ease-in-out;
+}
+div.hover-effect:hover{
+transform: translate3d(0,-3px,0);
+}
+.bg-niagara
+{
+  background-color: #189782!important;
+}
+.bg-slateblue
+{
+  background-color: #4174e3!important;
+}
+.bg-purple
+{
+  background-color: #915eca!important;
+}
+.bg-azureblue
+{
+  background-color: #0078d7!important;
+}
+.bg-crimson
+{
+  background-color: #d9430b!important;
+}
+.bg-pink
+{
+  background-color: #b41e5b!important;
+}
+
