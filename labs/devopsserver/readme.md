@@ -22,34 +22,39 @@ description: Learn how you can remove barriers between teams, encourage collabor
 <div class="row">
                         <div class="col-sm-12" style="margin-top:10px;">				                     
                                 <h2 class="border-0 fon-normal">Agile Planning</h2>
-                                <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azureboards.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/agile/" class="fon-size-13"> Agile Planning and Portfolio Management </a></li>
-                                            </ul>
-                                        </div>
-                                    </div>                                    
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/deliveryplans2.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/deliveryplans/" class="fon-size-13">Managing
-                                                        Delivery Plans</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                         <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/wiki2.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/wiki/" class="fon-size-13"> Collaboration Experiences for Development Teams with Wiki </a></li>
-                                            </ul>
-                                        </div>
-                                    </div> 
-                                </div>
-                            </div>
+                               <div class="row equal-height-columns my-2">        
+			<div class="col-sm-3 my-2">
+				<div class="shadow-sm hover-effect equal-height-column">
+					<a href="/labs/devopsserver/agile/" class="text-col-gunpower">
+						<div class="bg-niagara p-2 text-center">
+							<div class="icon-cover"><img src="/images/azureboards.png" alt="azure-boards" height="42"></div>
+						</div>
+						<div class="bg-white p-3 text-center">Agile Planning and Portfolio Management with Azure Boards</div>
+					</a>	
+				</div>
+			</div>                              
+                                   <div class="col-sm-3 my-2">
+				<div class="shadow-sm hover-effect equal-height-column">
+					<a href="/labs/devopsserver/deliveryplans/" class="text-col-gunpower">
+						<div class="bg-azureblue p-2 text-center">
+							<div class="icon-cover"><img src="/images/deliveryplans2.png" alt="azure-boards" height="42"></div>
+						</div>
+						<div class="bg-white p-3 text-center">Managing
+                                                        Delivery Plans</div>
+					</a>	
+				</div>
+			</div>
+                               	<div class="col-sm-3 my-2">
+				<div class="shadow-sm hover-effect equal-height-column">
+					<a href="/labs/devopsserver/wiki/" class="text-col-gunpower">
+						<div class="bg-azureblue p-2 text-center">
+							<div class="icon-cover"><img src="/images/wiki.png" alt="azure-boards" height="42"></div>
+						</div>
+						<div class="bg-white p-3 text-center">Collaboration Experiences for Development Teams with Wiki</div>
+					</a>	
+				</div>
+			</div>
+     </div>	   
                             <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Develop</h2>
                                 <div class="row equal-height-columns">
