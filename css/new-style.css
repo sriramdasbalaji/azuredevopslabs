@@ -628,4 +628,11 @@ transform: translate3d(0,-3px,0);
 {
   background-color: #b41e5b!important;
 }
-
+.bannerTitle{
+  color: white;
+  font-size: 28px;
+}
+.bannerText{
+  color: white;
+  font-size: 16px;
+}
