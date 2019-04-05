@@ -403,12 +403,16 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#047ad8', end
 
 @media ( min-width: 768px ) {
   /* tablet size, 3 cells in group */
-  .carousel-cell { width: 33.33%; }
+  .carousel-cell { width: 33.33%; }.mt-small-5 {margin-top: 5px!important;}
 }
 
 @media ( min-width: 1024px ) {
   /* desktop, 4 cells in group */
   .carousel-cell { width: 18%; }
+  .text-font {
+    padding: 3px 2px 3px 7px!important;    
+    margin-left: 0px!important; 
+} .pr-lg-0{padding-right:0px!important}
 }
 iframe .flickity-viewport{
   height: 300px !important
@@ -417,7 +421,7 @@ iframe .flickity-viewport{
 /*media queries*/
 @media (min-width: 320px) and (max-width: 374px) {
 .banner1{height:282px!important} .banner2{height:282px!important} .banner3{height:282px!important}
-.banner4{height:245px!important}
+.banner4{height:245px!important}.pl-small-15{padding-left:15px!important}.mt-small-5 {margin-top: 5px!important;}
 }
 @media (min-width: 375px) and (max-width: 499px) {
   .bg-image {height:477px!important}.osslist {height:60px!important;}
@@ -446,6 +450,7 @@ iframe .flickity-viewport{
         top: 50px;}
         .banner1{height:275px!important} .banner2{height:275px!important} .banner3{height:275px!important}
         .banner4{height:245px!important}
+        .pl-small-15{padding-left:15px!important}.mt-small-5 {margin-top: 5px!important;}
 }
 @media (min-width: 500px) and (max-width: 767px) {
   .bg-image {height:440px!important}.osslist {height:60px!important;}
@@ -466,6 +471,7 @@ iframe .flickity-viewport{
     right: 302px ;
   }
   .banner1{height:215px!important} .banner2{height:215px!important} .banner3{height:215px!important}
+  .pl-small-15{padding-left:15px!important}.mt-small-5 {margin-top: 5px!important;}
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .bg-image {height:330px!important} .osslist {height:80px!important;}
@@ -473,6 +479,7 @@ iframe .flickity-viewport{
     top: 19px;
     margin-left: 2px;
   }
+  
 }
 @media (min-width: 992px) and (max-width: 1200px) {
   .banner1{background-position: left 13%!important;} .banner2 {background-position: left 13%!important;} .banner3{background-position: left 13%!important;}
@@ -579,11 +586,10 @@ height:auto;
     color: #fff;
 }
 /* New UI changes related css*/
-.bg-secondary {
-  background-color: #fcfcfc!important;
-}
+.box-cover{height:80px;border:1px solid hsla(0, 0%, 89%, 1);} 
+.text-font{padding: 3px 2px 3px 1px; line-height: 1.4; font-size: 13px;margin-left:-10px} 
 .icon-cover{
-background-color:#fff;display:inline-block;width:60px;height:60px;border-radius:50%;padding:10px;
+background-color:#fff;display:inline-block;width:63px;height:63px;border-radius:50%;padding:12px;
 }
 a.text-col-gunpower{
 color:#505055!important;
