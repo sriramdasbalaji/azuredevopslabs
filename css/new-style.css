@@ -411,7 +411,7 @@ filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#047ad8', end
   .carousel-cell { width: 18%; }
   .text-font {
     padding: 3px 2px 3px 7px!important;    
-    margin-left: 0px!important; 
+    /*margin-left: 0px!important; */
 } .pr-lg-0{padding-right:0px!important}
 }
 iframe .flickity-viewport{
@@ -586,10 +586,11 @@ height:auto;
     color: #fff;
 }
 /* New UI changes related css*/
-.box-cover{height:69px;border:1px solid hsla(0, 0%, 89%, 1);} 
-.text-font{padding: 3px 2px 3px 1px; line-height: 1.4; font-size: 13px;margin-left:-10px} 
+.box-cover{height:70px;border:1px solid hsla(0, 0%, 89%, 1);} 
+.text-font{padding: 3px 2px 3px 1px; line-height: 1.4; font-size: 13px;} 
 .icon-cover{
-background-color:#fff;display:inline-block;width:52px;height:52px;border-radius:50%;padding:11px;
+background-color:#fff;display:inline-block;width:30px;height:30px;border-radius:50%;
+/*padding:12px;*/
 }
 a.text-col-gunpower{
 color:#505055!important;
@@ -604,29 +605,35 @@ transition: all 0.3s ease-in-out;
 div.hover-effect:hover{
 transform: translate3d(0,-3px,0);
 }
+
+.bg {
+  margin-left: 20px;
+}
 .bg-niagara
 {
   background-color: #189782!important;
+  width: 50px;
 }
 .bg-slateblue
 {
   background-color: #4174e3!important;
+  width: 50px;
 }
 .bg-purple
 {
-  background-color: #915eca!important;
+  background-color: #915eca!important;  width: 50px;
 }
 .bg-azureblue
 {
-  background-color: #0078d7!important;
+  background-color: #0078d7!important;   width: 50px;
 }
 .bg-crimson
 {
-  background-color: #d9430b!important;
+  background-color: #d9430b!important;   width: 50px;
 }
 .bg-pink
 {
-  background-color: #b41e5b!important;
+  background-color: #b41e5b!important;   width: 50px;
 }
 .bannerTitle{
   color: white;
@@ -635,30 +642,4 @@ transform: translate3d(0,-3px,0);
 .bannerText{
   color: white;
   font-size: 16px;
-}
-.bg-blue {
-  background-color: #3e3eb3!important;
-}
-.bg-yellow {
-  background-color: #d1a41a!important;
-}
-.bg-sel-grey {
-  background-color: #777777!important;
-}
-.bg-nodegreen {
-  background-color: #83cd29!important;
-}
-.footer-btn
-{
-  background-color: transparent;
-  color: white;
-  cursor: pointer;
-  padding: 10px;}
-.footer-btn:hover
-{
-  background-color: #ffffff;
-    border: none;
-    color: #337ab7;
-    cursor: pointer;
-    padding: 10px;
 }

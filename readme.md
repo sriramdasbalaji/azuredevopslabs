@@ -9,8 +9,6 @@ landingpage: false
 description: Learn how you can implement modern DevOps practices with Azure, Azure DevOps Services and Team Foundation Server.
 ---
 
-
-
 <!-- <div class="bg-image">
     <div class="container" style="padding-top:45px">
         <div class="row">
@@ -78,22 +76,23 @@ continuous delivery of value to your end users.</p>
                 up for free now</a>-->
 <div class="container">
 <div class="row my-2">
-  <div class="col-sm-8" style="margin-top:26px">
+  <div class="col-sm-8" style="margin-top:30px; margin-bottom: 20px">
   <h2 class="border-0 fon-normal">Getting started with Azure DevOps</h2> 
                                   <p>Simplify and speed up the DevOps process with Azure DevOps services. The
                                     following labs will help you to get started with Azure DevOps services to automate software
                                     delivery and meet business needs.</p>
 </div>
-<div class="col-sm-4">
+<br />
+<div class="col-sm-4" style="text-align:right">
 <img src="/images/AzureDevOps-img.png" alt="Azure DevOps" width="250">
 </div>
   <div class="row equal-height-columns my-1">        
 			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
 			<div class="hover-effect equal-height-column box-cover">
-				<div class="row">
+				<div class="row" style="margin-top:10px">
 					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
-						<div class="bg-niagara p-2 text-center">
-							<div class="icon-cover"><img src="/images/azureboards.png" alt="azureboards" height="25"></div>
+						<div class="bg bg-niagara p-2 text-center">
+							<div class="icon-cover"><img src="/images/azureboards.png" alt="azureboards" height="20"></div>
 						</div>
 					</div>
 					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
@@ -106,10 +105,10 @@ continuous delivery of value to your end users.</p>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
 			<div class="hover-effect equal-height-column box-cover">
-				<div class="row">
+				<div class="row" style="margin-top:10px">
 					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
-						<div class="bg-slateblue p-2 text-center">
-							<div class="icon-cover"><img src="/images/azurepipelines.png" alt="azurepipelines" height="25"></div>
+						<div class=" bg bg-slateblue p-2 text-center">
+							<div class="icon-cover"><img src="/images/azurepipelines.png" alt="azurepipelines" height="20"></div>
 						</div>
 					</div>
 					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
@@ -122,10 +121,10 @@ continuous delivery of value to your end users.</p>
 			</div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
 			<div class="hover-effect equal-height-column box-cover">
-				<div class="row">
+				<div class="row" style="margin-top:10px">
 					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
-						<div class="bg-purple p-2 text-center">
-							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="25"></div>
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="20"></div>
 						</div>
 					</div>
 					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
@@ -138,10 +137,10 @@ continuous delivery of value to your end users.</p>
 			</div>	
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
 			<div class="hover-effect equal-height-column box-cover">
-				<div class="row">
+				<div class="row" style="margin-top:10px">
 					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
-						<div class="bg-azureblue p-2 text-center">
-							<div class="icon-cover"><img src="/images/azuredevops.png" alt="azuredevops" height="25"></div>
+						<div class=" bg bg-azureblue p-2 text-center">
+							<div class="icon-cover"><img src="/images/azuredevops.png" alt="azuredevops" height="20"></div>
 						</div>
 					</div>
 					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
@@ -156,10 +155,10 @@ continuous delivery of value to your end users.</p>
   <div class="row equal-height-columns my-1">        
 			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
 			<div class="hover-effect equal-height-column box-cover">
-				<div class="row">
+				<div class="row" style="margin-top:10px">
 					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
-						<div class="bg-crimson p-2 text-center">
-							<div class="icon-cover"><img src="/images/azurerepos.png" alt="azurerepos" height="25"></div>
+						<div class=" bg bg-crimson p-2 text-center">
+							<div class="icon-cover"><img src="/images/azurerepos.png" alt="azurerepos" height="20"></div>
 						</div>
 					</div>
 					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
@@ -172,10 +171,10 @@ continuous delivery of value to your end users.</p>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
 			<div class="hover-effect equal-height-column box-cover">
-				<div class="row">
+				<div class="row" style="margin-top:10px">
 					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
-						<div class="bg-slateblue p-2 text-center">
-							<div class="icon-cover"><img src="/images/azurepipelines.png" alt="azurepipelines" height="25"></div>
+						<div class=" bg bg-slateblue p-2 text-center">
+							<div class="icon-cover"><img src="/images/azurepipelines.png" alt="azurepipelines" height="20"></div>
 						</div>
 					</div>
 					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
@@ -188,10 +187,10 @@ continuous delivery of value to your end users.</p>
 			</div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
 			<div class="hover-effect equal-height-column box-cover">
-				<div class="row">
+				<div class="row" style="margin-top:10px">
 					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
-						<div class="bg-purple p-2 text-center">
-							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="25"></div>
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="20"></div>
 						</div>
 					</div>
 					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
@@ -204,10 +203,10 @@ continuous delivery of value to your end users.</p>
 			</div>	
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
 			<div class="hover-effect equal-height-column box-cover">
-				<div class="row">
+				<div class="row" style="margin-top:10px">
 					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
-						<div class="bg-azureblue p-2 text-center">
-							<div class="icon-cover"><img src="/images/wiki.png" alt="wiki" height="25"></div>
+						<div class=" bg bg-azureblue p-2 text-center">
+							<div class="icon-cover"><img src="/images/wiki.png" alt="wiki" height="20"></div>
 						</div>
 					</div>
 					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
@@ -222,10 +221,10 @@ continuous delivery of value to your end users.</p>
 	 <div class="row equal-height-columns my-1">        
 			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
 			<div class="hover-effect equal-height-column box-cover">
-				<div class="row">
+				<div class="row" style="margin-top:10px">
 					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
-						<div class="bg-pink p-2 text-center">
-							<div class="icon-cover"><img src="/images/azureartifacts.png" alt="azureartifacts" height="25"></div>
+						<div class=" bg bg-pink p-2 text-center">
+							<div class="icon-cover"><img src="/images/azureartifacts.png" alt="azureartifacts" height="20"></div>
 						</div>
 					</div>
 					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
@@ -238,10 +237,10 @@ continuous delivery of value to your end users.</p>
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
 			<div class="hover-effect equal-height-column box-cover">
-				<div class="row">
+				<div class="row" style="margin-top:10px">
 					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
-						<div class="bg-purple p-2 text-center">
-							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="25"></div>
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="20"></div>
 						</div>
 					</div>
 					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
@@ -254,10 +253,10 @@ continuous delivery of value to your end users.</p>
 			</div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
 			<div class="hover-effect equal-height-column box-cover">
-				<div class="row">
+				<div class="row" style="margin-top:10px">
 					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
-						<div class="bg-azureblue p-2 text-center">
-							<div class="icon-cover"><img src="/images/overview.png" alt="overview" height="25"></div>
+						<div class=" bg bg-azureblue p-2 text-center">
+							<div class="icon-cover"><img src="/images/overview.png" alt="overview" height="20"></div>
 						</div>
 					</div>
 					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
@@ -270,10 +269,10 @@ continuous delivery of value to your end users.</p>
 			</div>	
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
 			<div class="hover-effect equal-height-column box-cover">
-				<div class="row">
+				<div class="row" style="margin-top:10px">
 					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
-						<div class="bg-slateblue p-2 text-center">
-							<div class="icon-cover"><img src="/images/azurepipelines.png" alt="azurepipelines" height="25"></div>
+						<div class=" bg bg-slateblue p-2 text-center">
+							<div class="icon-cover"><img src="/images/azurepipelines.png" alt="azurepipelines" height="20"></div>
 						</div>
 					</div>
 					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
@@ -285,98 +284,11 @@ continuous delivery of value to your end users.</p>
 			</div>	
 			</div>				
      </div>
+      <div class="row" style="margin-left: 10px;margin-top: 10px;">
+      <p><b>Are you using Azure DevOps Server?</b> then  <a href="/labs/devopsserver/"> click here </a>to explore the Azure DevOps Server 2019 labs</p>
+      </div>
      </div>
-<div class="container">
-  <div class="row my-2">
-  <div class="col-sm-8" style="margin-top:26px">
-  <h2 class="border-0 fon-normal">Getting started with Azure DevOps</h2> 
-                                  <p>Simplify and speed up the DevOps process with Azure DevOps services. The
-                                    following labs will help you to get started with Azure DevOps services to automate software
-                                    delivery and meet business needs.</p>
-</div>
-<div class="col-sm-4">
-<img src="/images/AzureDevOps-img.png" alt="Azure DevOps" width="250">
-</div>
 
-<div class="container-fluid">
-    <div class="row">
-    <div class="container"> 
-      <div class="col-sm-12">
-                                <div class="row equal-height-columns">
-                                    <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"><img src="/images/azureboards.png" height="42"
-                                                        class="icon-bor-p-m" />
-                                                    <a href="/labs/azuredevops/agile/" class="fon-size-13">Agile
-                                                        Planning and Portfolio Management with Azure Boards </a></li>
-                                                <li class="osslist"><img src="/images/azurerepos.png" height="42" class="icon-bor-p-m" />
-                                                    <a href="/labs/azuredevops/git/" class="fon-size-13">Version
-                                                        Controlling with Azure Repos </a></li>
-                                                <li class="osslist"><img src="/images/azureartifacts.png" height="42"
-                                                        class="icon-bor-p-m" />
-                                                    <a href="/labs/azuredevops/packagemanagement/" class="fon-size-13">Package
-                                                        Management with Azure Artifacts</a>
-                                                </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"><img src="/images/azurepipelines.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/azuredevops/continuousintegration/"
-                                                        class="fon-size-13">Enabling Continuous Integration with Azure
-                                                        Pipelines</a></li>
-                                                <li class="osslist"><img src="/images/azurepipelines.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/azuredevops/continuousdeployment/"
-                                                        class="fon-size-13">Embracing Continuous Delivery with Azure
-                                                        Pipelines</a></li>
-                                                <li class="osslist"><img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/azuredevops/testmanagement/"
-                                                        class="fon-size-13">Test Planning and Management with Azure
-                                                        Test Plans</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"><img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" />
-                                                    <a href="/labs/azuredevops/exploratorytesting/" class="fon-size-13">Exploratory
-                                                        Testing with Azure Test Plans</a></li>
-                                                <li class="osslist"><img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" />
-                                                    <a href="/labs/azuredevops/load/" class="fon-size-13">Web
-                                                        Application Load and Performance Testing</a></li>
-                                                <li class="osslist"><img src="/images/overview.png" height="42" class="icon-bor-p-m" />
-                                                    <a href="/labs/azuredevops/deliveryplans/" class="fon-size-13">Managing
-                                                        Project Schedules across Teams with Delivery Plans</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-lg-3 col-md-3 col-md-6 col-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"><img src="/images/azuredevops.png" height="42"
-                                                        class="icon-bor-p-m" />
-                                                    <a href="/labs/azuredevops/sonarcloud/" class="fon-size-13">Managing
-                                                        Technical Debt with Azure DevOps and SonarCloud</a></li>
-                                                <li class="osslist"><img src="/images/wiki.png" height="42" class="icon-bor-p-m" />
-                                                    <a href="/labs/azuredevops/wiki/" class="fon-size-13">Collaborating
-                                                        with Azure DevOps Wiki</a></li>
-                                                <li class="osslist"><img src="/images/azurepipelines.png" height="42"
-                                                        class="icon-bor-p-m" />
-                                                    <a href="/labs/azuredevops/yaml/" class="fon-size-13">Configuring
-                                                        Build as Code with YAML in Azure Pipelines</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                                <p><b>Are you using Azure DevOps Server?</b> then  <a href="/labs/devopsserver/"> click here </a>to explore the Azure DevOps Server 2019 labs</p> 
-                                </div>
-                                
 <hr height="1" />  
   <div class="container px-3 pb-3 pt-1 rounded">
   <div class="row">
@@ -434,9 +346,9 @@ continuous delivery of value to your end users.</p>
     </div>    
 </div>
 </div>
-</div>     
-                   
-                        <div class="col-sm-12 col-12 pading-t-20">
+</div>    
+
+<div class="col-sm-12 col-12 pading-t-20">
                                 <h2 class="border-0 fon-normal">Deep Dive into Azure DevOps</h2>
                                 <p>Azure DevOps provides integration with popular open source and third-party tools and
                                     services—across the entire DevOps workflow. Use the tools and languages you know.
