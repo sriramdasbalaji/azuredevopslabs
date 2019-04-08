@@ -41,8 +41,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
     <div class="carousel-item active banner1">     
       <div class="text-center p-t-60px">
       <p class="bannerTitle">What is DevOps?</p>
-      <p class="bannerText mb-1">DevOps is the union of people, process and technology to enable<br>
-continuous delivery of value to your end users.</p>
+      <p class="bannerText mb-1">DevOps brings together people, processes, and technology, automating software delivery to provide continuous value to your users. <br /> DevOps automates and speeds software delivery. It makes your process and your products more reliable.</p>
       </div>
     </div>
     <div class="carousel-item banner2">      
@@ -346,7 +345,7 @@ continuous delivery of value to your end users.</p>
     </div>    
 </div>
 </div>
-</div>    
+</div>
 
 <div class="col-sm-12 col-12 pading-t-20">
                                 <h2 class="border-0 fon-normal">Deep Dive into Azure DevOps</h2>
@@ -511,5 +510,3 @@ continuous delivery of value to your end users.</p>
                                 </ul>
                             </div>                                -->
     </div>
-    </div>
-</div>
