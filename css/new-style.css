@@ -418,10 +418,12 @@ iframe .flickity-viewport{
   height: 300px !important
 }
 /*Slider CSS end*/
+.pl-cont{padding-left:0px!important}
 /*media queries*/
 @media (min-width: 320px) and (max-width: 374px) {
 .banner1{height:282px!important} .banner2{height:282px!important} .banner3{height:282px!important}
 .banner4{height:245px!important}.pl-small-15{padding-left:15px!important}.mt-small-5 {margin-top: 5px!important;}
+.cont-mt{margin-top:3px!important}.pl-cont{padding-left:15px!important}.ml-forsm{margin-left:15px!important}
 }
 @media (min-width: 375px) and (max-width: 499px) {
   .bg-image {height:477px!important}.osslist {height:60px!important;}
@@ -451,6 +453,8 @@ iframe .flickity-viewport{
         .banner1{height:275px!important} .banner2{height:275px!important} .banner3{height:275px!important}
         .banner4{height:245px!important}
         .pl-small-15{padding-left:15px!important}.mt-small-5 {margin-top: 5px!important;}
+        .cont-mt{margin-top:3px!important}.pl-cont{padding-left:15px!important}
+        .ml-forsm{margin-left:15px!important}
 }
 @media (min-width: 500px) and (max-width: 767px) {
   .bg-image {height:440px!important}.osslist {height:60px!important;}
@@ -472,6 +476,8 @@ iframe .flickity-viewport{
   }
   .banner1{height:215px!important} .banner2{height:215px!important} .banner3{height:215px!important}
   .pl-small-15{padding-left:15px!important}.mt-small-5 {margin-top: 5px!important;}
+  .cont-mt{margin-top:3px!important}.pl-cont{padding-left:15px!important}
+  .ml-forsm{margin-left:15px!important}
 }
 @media (min-width: 768px) and (max-width: 991px) {
   .bg-image {height:330px!important} .osslist {height:80px!important;}
@@ -479,7 +485,7 @@ iframe .flickity-viewport{
     top: 19px;
     margin-left: 2px;
   }
-  
+  .cont-mt{margin-top:3px!important}
 }
 @media (min-width: 992px) and (max-width: 1200px) {
   .banner1{background-position: left 13%!important;} .banner2 {background-position: left 13%!important;} .banner3{background-position: left 13%!important;}
@@ -493,7 +499,14 @@ iframe .flickity-viewport{
   }
   
 }
+.img-mt{margin-top:10px}
+.cont-mt{margin-top:10px!important}
+.cont-pl{padding-left: 0px!important;}
 
+@media (min-width: 1024px) and (max-width: 1439px) {
+  .cont-mt{margin-top:3px!important}
+  .cont-pl{padding-left: 15px!important;}
+  }
 /* TRANSITION */
 li.osslist:hover {
   transform: translate3d(0,-3px,0);
@@ -642,4 +655,38 @@ transform: translate3d(0,-3px,0);
 .bannerText{
   color: white;
   font-size: 16px;
+}
+.footer-btn	
+{	
+  background-color: #323237;
+  border: 1px solid #fff;		
+  color: white;	
+  cursor: pointer;	
+  padding:10px;
+  font-weight:600;
+  }	
+.footer-btn:hover	
+{	
+  background-color: #ffffff;	
+    border: 1px solid #fff;	
+    color: #337ab7;	
+    cursor: pointer;    
+    text-decoration:none!important;	
+}
+.github-btn{
+  background-color: #ffffff;
+    padding: 6px;
+    border: 1px solid #505055;
+    border-radius:2px;
+    color: #000000;
+    text-decoration: none!important;
+}
+.github-btn:hover{
+  background-color: #e2e3e5; 
+  color: #000000;   
+    text-decoration: none!important;
+}
+.heading4{
+  font-size: 24px;
+    font-weight: 500;
 }

@@ -75,7 +75,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
                 up for free now</a>-->
 <div class="container">
 <div class="row my-2">
-  <div class="col-sm-8" style="margin-top:30px; margin-bottom: 20px">
+  <div class="col-sm-8 pl-cont" style="margin-top:30px; margin-bottom: 20px">
   <h2 class="border-0 fon-normal">Getting started with Azure DevOps</h2> 
                                   <p>Simplify and speed up the DevOps process with Azure DevOps services. The
                                     following labs will help you to get started with Azure DevOps services to automate software
@@ -87,14 +87,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 </div>
   <div class="row equal-height-columns my-1">        
 			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover">
-				<div class="row" style="margin-top:10px">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
 						<div class="bg bg-niagara p-2 text-center">
 							<div class="icon-cover"><img src="/images/azureboards.png" alt="azureboards" height="20"></div>
 						</div>
 					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
 							<a href="/labs/azuredevops/agile/" class="text-col-gunpower">	
 								<div class="bg-white text-font">Agile Planning and Portfolio Management with Azure Boards</div>
 							</a>
@@ -103,14 +103,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 			</div>	
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover">
-				<div class="row" style="margin-top:10px">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
 						<div class=" bg bg-slateblue p-2 text-center">
 							<div class="icon-cover"><img src="/images/azurepipelines.png" alt="azurepipelines" height="20"></div>
 						</div>
 					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
 							<a href="/labs/azuredevops/continuousintegration/" class="text-col-gunpower">	
 								<div class="bg-white text-font">Enabling Continuous Integration with Azure Pipelines</div>
 							</a>
@@ -119,14 +119,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 			</div>	
 			</div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover">
-				<div class="row" style="margin-top:10px">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
 						<div class=" bg bg-purple p-2 text-center">
 							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="20"></div>
 						</div>
 					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
 							<a href="/labs/azuredevops/exploratorytesting/" class="text-col-gunpower">	
 								<div class="bg-white text-font">Exploratory Testing with Azure Test Plans</div>
 							</a>
@@ -135,14 +135,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 			</div>	
 			</div>	
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover">
-				<div class="row" style="margin-top:10px">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
 						<div class=" bg bg-azureblue p-2 text-center">
 							<div class="icon-cover"><img src="/images/azuredevops.png" alt="azuredevops" height="20"></div>
 						</div>
 					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
 							<a href="/labs/azuredevops/sonarcloud/" class="text-col-gunpower">	
 								<div class="bg-white text-font">Managing Technical Debt with Azure DevOps and SonarCloud</div>
 							</a>
@@ -153,14 +153,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
      </div>
   <div class="row equal-height-columns my-1">        
 			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover">
-				<div class="row" style="margin-top:10px">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
 						<div class=" bg bg-crimson p-2 text-center">
 							<div class="icon-cover"><img src="/images/azurerepos.png" alt="azurerepos" height="20"></div>
 						</div>
 					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
 							<a href="/labs/azuredevops/git/" class="text-col-gunpower">	
 								<div class="bg-white text-font">Version Controlling with Azure Repos</div>
 							</a>
@@ -169,14 +169,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 			</div>	
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover">
-				<div class="row" style="margin-top:10px">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
 						<div class=" bg bg-slateblue p-2 text-center">
 							<div class="icon-cover"><img src="/images/azurepipelines.png" alt="azurepipelines" height="20"></div>
 						</div>
 					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
 							<a href="/labs/azuredevops/continuousdeployment/" class="text-col-gunpower">	
 								<div class="bg-white text-font">Embracing Continuous Delivery with Azure Pipelines</div>
 							</a>
@@ -185,14 +185,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 			</div>	
 			</div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover">
-				<div class="row" style="margin-top:10px">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
 						<div class=" bg bg-purple p-2 text-center">
 							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="20"></div>
 						</div>
 					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
 							<a href="/labs/azuredevops/load/" class="text-col-gunpower">	
 								<div class="bg-white text-font">Web Application Load and Performance Testing</div>
 							</a>
@@ -201,14 +201,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 			</div>	
 			</div>	
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover">
-				<div class="row" style="margin-top:10px">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
 						<div class=" bg bg-azureblue p-2 text-center">
 							<div class="icon-cover"><img src="/images/wiki.png" alt="wiki" height="20"></div>
 						</div>
 					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
 							<a href="/labs/azuredevops/wiki/" class="text-col-gunpower">	
 								<div class="bg-white text-font">Collaborating with Azure DevOps Wiki</div>
 							</a>
@@ -219,14 +219,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
      </div>
 	 <div class="row equal-height-columns my-1">        
 			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover">
-				<div class="row" style="margin-top:10px">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
 						<div class=" bg bg-pink p-2 text-center">
 							<div class="icon-cover"><img src="/images/azureartifacts.png" alt="azureartifacts" height="20"></div>
 						</div>
 					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
 							<a href="/labs/azuredevops/packagemanagement/" class="text-col-gunpower">	
 								<div class="bg-white text-font">Package Management with Azure Artifacts</div>
 							</a>
@@ -235,14 +235,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 			</div>	
 			</div>
 			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover">
-				<div class="row" style="margin-top:10px">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
 						<div class=" bg bg-purple p-2 text-center">
 							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="20"></div>
 						</div>
 					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
 							<a href="/labs/azuredevops/testmanagement/" class="text-col-gunpower">	
 								<div class="bg-white text-font">Test Planning and Management with Azure Test Plans</div>
 							</a>
@@ -251,14 +251,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 			</div>	
 			</div>
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover">
-				<div class="row" style="margin-top:10px">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
 						<div class=" bg bg-azureblue p-2 text-center">
 							<div class="icon-cover"><img src="/images/overview.png" alt="overview" height="20"></div>
 						</div>
 					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
 							<a href="/labs/azuredevops/deliveryplans/" class="text-col-gunpower">	
 								<div class="bg-white text-font">Managing Project Schedules across Teams with Delivery Plans</div>
 							</a>
@@ -267,14 +267,14 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 			</div>	
 			</div>	
             <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover">
-				<div class="row" style="margin-top:10px">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-4 pl-0 pr-lg-0 pl-small-15">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
 						<div class=" bg bg-slateblue p-2 text-center">
 							<div class="icon-cover"><img src="/images/azurepipelines.png" alt="azurepipelines" height="20"></div>
 						</div>
 					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-8 pl-0">					
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
 							<a href="/labs/azuredevops/yaml/" class="text-col-gunpower">	
 								<div class="bg-white text-font">Configuring Build as Code with YAML in Azure Pipelines</div>
 							</a>
