@@ -19,223 +19,361 @@ description: Learn how you can remove barriers between teams, encourage collabor
         </div>
 </div>       
 <div class="container">
-<div class="row">
-                        <div class="col-sm-12" style="margin-top:10px;">				                     
-                                <h2 class="border-0 fon-normal">Agile Planning</h2>
-                                <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azureboards.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/agile/" class="fon-size-13"> Agile Planning and Portfolio Management </a></li>
-                                            </ul>
-                                        </div>
-                                    </div>                                    
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/deliveryplans2.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/deliveryplans/" class="fon-size-13">Managing
-                                                        Delivery Plans</a></li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                         <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/wiki2.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/wiki/" class="fon-size-13"> Collaboration Experiences for Development Teams with Wiki </a></li>
-                                            </ul>
-                                        </div>
-                                    </div> 
-                                </div>
-                            </div>
-                            <div class="col-sm-12">
-                                <h2 class="border-0 fon-normal">Develop</h2>
-                                <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px"> 
-                                            <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/devopsserver/vsproductivity/" class="fon-size-13"> Making
-                                                        Developers More Productive</a> </li>
-                                            <li class="osslist"> <img src="/images/azuretestplans.png" height="42"                                                class="icon-bor-p-m" /><a href="/labs/devopsserver/intellitest/" class="fon-size-13">Generate
-                                                        Unit Tests with IntelliTest</a> </li>  
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/devopsserver/debugging/" class="fon-size-13">Debugging with
-                                                        IntelliTrace </a> </li>
-                                                        <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/devopsserver/codeanalysis/" class="fon-size-13"> Using Code
-                                                        Analysis to Improve Code Quality</a> </li>                                                                                              
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">                                                
-                                                <li class="osslist"> <img src="/images/validation.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/livedependencyvalidation/" class="fon-size-13">Live
-                                                        Dependency Validation</a> </li>
-                                                        <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/liveunittesting/"
-                                                        class="fon-size-13">Live Unit Testing, Code Coverage and Code
-                                                        Clone Analysis</a> </li>                                                   
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/vside.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/devopsserver/intellitrace/" class="fon-size-13">Diagnosing
-                                                        Issues in Production with IntelliTrace</a> </li>                                                                                           
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-12">
-                                <h2 class="border-0 fon-normal">Azure Pipelines</h2>
-                                <div class="row equal-height-columns">   
-                                 <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azurepipelines.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/build/" class="fon-size-13">Introduction to Build Pipelines </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>  
-                                     <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azurepipelines.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/releasemanagement/"
-                                                        class="fon-size-13">Embracing Continuous Delivery with Release
-                                                        Pipelines </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>                                      
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azureartifacts.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/packagemanagement/"
-                                                        class="fon-size-13">Package Management </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-12">
-                                <h2 class="border-0 fon-normal">Test Management and Execution</h2>
-                                <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/liveunittesting/"
-                                                        class="fon-size-13">Unit Testing, Code Coverage and Code Clone
-                                                        Analysis </a> </li>
-                                                </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/intellitest/" class="fon-size-13">Generate
-                                                        Unit Tests with IntelliTest</a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>                                    
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/exploratorytesting/"
-                                                        class="fon-size-13">Exploratory Testing and Feedback Management
-                                                    </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azuretestplans.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/testmanagement/"
-                                                        class="fon-size-13">Exploratory Testing and Feedback Management
-                                                    </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <!-- <div class="col-sm-12">
-                                <h2 class="border-0 fon-normal">Continuous Delivery</h2>
-                                <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azurepipelines.png" height="42"
-                                                        class="icon-bor-p-m" /><a href="/labs/devopsserver/releasemanagement/"
-                                                        class="fon-size-13">Embracing Continuous Delivery with Release
-                                                        Management </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>                                                                   
-                                </div>
-                            </div> -->
-                            <div class="col-sm-12">
-                                <h2 class="border-0 fon-normal">Application Monitoring</h2>
-                                <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/appinsights.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/devopsserver/wiki/" class="fon-size-13">Instrumenting
-                                                        ASP.NET with Application Insights </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-12">
-                                <h2 class="border-0 fon-normal">Azure</h2>
-                                <div class="row equal-height-columns">
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/armlogo.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/devopsserver/armtemplates/" class="fon-size-13">Authoring
-                                                        ARM Templates with Visual Studio </a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/webappsql.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/devopsserver/aspnetazure/" class="fon-size-13">Building ASP.NET apps in Azure with SQL Database</a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3 col-sm-6 col-xs-12 p-l-r-override">
-                                        <div class="bg-color-white equal-height-column">
-                                            <ul class="p-l-5px">
-                                                <li class="osslist"> <img src="/images/azure-42.png" height="42" class="icon-bor-p-m" /><a
-                                                        href="/labs/devopsserver/azureserviceprincipal/" class="fon-size-13">Azure Service Principal</a> </li>
-                                            </ul>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="col-sm-12">
+<div class="row my-2">
+  <div class="col-sm-12">
+  <h2 class="border-0 fon-normal">Explore Azure DevOps Server</h2>                                  
+</div>
+</div>
+  <div class="row equal-height-columns my-1">        
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class="bg bg-niagara p-2 text-center">
+							<div class="icon-cover"><img src="/images/azureboards.png" alt="azureboards" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/agile/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Agile Planning and Portfolio Management</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/deliveryplans2.png" alt="deliveryplans2" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/deliveryplans/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Managing Delivery Plans</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-blue2 p-2 text-center">
+							<div class="icon-cover"><img src="/images/wiki2.png" alt="wiki2" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/wiki/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Collaboration Experiences for Development Teams with Wiki</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>	
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/vside.png" alt="vside" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/vsproductivity/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Making Developers More Productive</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>				
+     </div>
+  <div class="row equal-height-columns my-1">        
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/vside.png" alt="vside" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/debugging/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Debugging with IntelliTrace</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-pink p-2 text-center">
+							<div class="icon-cover"><img src="/images/validation.png" alt="validation" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/livedependencyvalidation/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Live Dependency Validation</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/vside.png" alt="vside" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/intellitrace/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Diagnosing Issues in Production with IntelliTrace</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>	
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/intellitest/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Generate Unit Tests with IntelliTest</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>				
+     </div>
+	 <div class="row equal-height-columns my-1">        
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/vside.png" alt="vside" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/codeanalysis/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Using Code Analysis to Improve Code Quality</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/liveunittesting/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Live Unit Testing, Code Coverage and Code Clone Analysis</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-slateblue p-2 text-center">
+							<div class="icon-cover"><img src="/images/azurepipelines.png" alt="azurepipelines" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/build/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Introduction to Build Pipelines</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>	
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-slateblue p-2 text-center">
+							<div class="icon-cover"><img src="/images/azurepipelines.png" alt="azurepipelines" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/releasemanagement/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Embracing Continuous Delivery with Release Pipelines</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>				
+     </div>
+	 <div class="row equal-height-columns my-1">        
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class="bg bg-pink p-2 text-center">
+							<div class="icon-cover"><img src="/images/azureartifacts.png" alt="azureartifacts" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/packagemanagement/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Package Management</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/liveunittesting/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Unit Testing, Code Coverage and Code Clone Analysis</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/intellitest/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Generate Unit Tests with IntelliTest</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>	
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/exploratorytesting/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Exploratory Testing and Feedback Management</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>				
+     </div>
+  <div class="row equal-height-columns my-1">        
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/azuretestplans.png" alt="azuretestplans" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/testmanagement/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Test Management</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-purple p-2 text-center">
+							<div class="icon-cover"><img src="/images/appinsights.png" alt="appinsights" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/wiki/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Instrumenting ASP.NET with Application Insights</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-azureblue p-2 text-center">
+							<div class="icon-cover"><img src="/images/armlogo.png" alt="armlogo" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/armtemplates/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Authoring ARM Templates with Visual Studio</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>	
+            <div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-color-1 p-2 text-center">
+							<div class="icon-cover"><img src="/images/webappsql.png" alt="webappsql" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/aspnetazure/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Building ASP.NET apps in Azure with SQL Database</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>				
+     </div>
+	 <div class="row equal-height-columns my-1">        
+			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
+			<div class="hover-effect equal-height-column box-cover ml-forsm">
+				<div class="row">
+					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
+						<div class=" bg bg-azureblue p-2 text-center">
+							<div class="icon-cover"><img src="/images/azure-42.png" alt="azure-42" height="20"></div>
+						</div>
+					</div>
+					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
+							<a href="/labs/devopsserver/azureserviceprincipal/" class="text-col-gunpower">	
+								<div class="bg-white text-font">Azure Service Principal</div>
+							</a>
+					</div>					
+				</div>
+			</div>	
+			</div>							
+     </div>
+     <div class="row">
+	 <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Get the accompanying VM</h2>
                                 <p>To make it easy for you to follow the labs, we offer a virtual machine pre-installed
                                     with Azure DevOps Server 2019, Visual Studio Enterprise 2019, Office and pre-configured with sample projects, users and data.</p>
@@ -268,6 +406,5 @@ description: Learn how you can remove barriers between teams, encourage collabor
                                     </li>
                                 </ul>
                             </div>
-                            </div>
-                            </div>
-                       
+     </div>	 
+ </div>
