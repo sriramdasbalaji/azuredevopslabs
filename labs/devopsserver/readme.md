@@ -20,8 +20,12 @@ description: Learn how you can remove barriers between teams, encourage collabor
 </div>       
 <div class="container">
 <div class="row my-2">
-  <div class="col-sm-12">
-  <h2 class="border-0 fon-normal">Explore Azure DevOps Server</h2>                                  
+  <div class="col-sm-8">
+  <h2 class="border-0 fon-normal">Explore DevOps with Azure DevOps Server and Visual Studio 2019</h2> 
+  <p>Azure DevOps Server, previously named Visual Studio Team Foundation Server, is the on-premises version of Azure DevOps Services. Azure DevOps Server provides integrated tools to support collaborative software development, including Git repositories, continuous integration and continuous deployment (CI/CD), and interactive Kanban boards.</p>
+</div>
+<div class="col-sm-4" style="text-align:right">
+<img src="../../images/onpremDevOps.png" alt="Azure DevOps Server" width="250">
 </div>
 </div>
   <div class="row equal-height-columns my-1">        
@@ -354,24 +358,7 @@ description: Learn how you can remove barriers between teams, encourage collabor
 			</div>	
 			</div>				
      </div>
-	 <div class="row equal-height-columns my-1">        
-			<div class="col-lg-3 col-md-6 col-sm-6 col-12 mt-small-5">
-			<div class="hover-effect equal-height-column box-cover ml-forsm">
-				<div class="row">
-					<div class="col-lg-3 col-md-3 col-sm-3 col-3 pl-0 pr-lg-0 pl-small-15 img-mt">
-						<div class=" bg bg-azureblue p-2 text-center">
-							<div class="icon-cover"><img src="/images/azure-42.png" alt="azure-42" height="20"></div>
-						</div>
-					</div>
-					<div class="col-lg-9 col-md-9 col-sm-9 col-9 cont-mt cont-pl">					
-							<a href="/labs/devopsserver/azureserviceprincipal/" class="text-col-gunpower">	
-								<div class="bg-white text-font">Azure Service Principal</div>
-							</a>
-					</div>					
-				</div>
-			</div>	
-			</div>							
-     </div>
+<hr height="1" style="width: 75%;" />   
      <div class="row">
 	 <div class="col-sm-12">
                                 <h2 class="border-0 fon-normal">Get the accompanying VM</h2>

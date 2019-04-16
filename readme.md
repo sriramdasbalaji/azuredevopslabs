@@ -283,12 +283,13 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 			</div>	
 			</div>				
      </div>
+     <br />
       <div class="row" style="margin-left: 10px;margin-top: 10px;">
       <p>For the on-premises platform, Azure DevOps Server (previously named Visual Studio Team Foundation Server), see  <a href="/labs/devopsserver/" class="btn btn-sm btn-primary">Azure DevOps Server 2019 Labs</a></p>
       </div>
      </div>
 
-<hr height="1" />  
+<hr height="1" style="width: 75%;" />  
   <div class="container px-3 pt-1 rounded">
   <div class="row">
   <div class="col-md-12">
@@ -384,7 +385,7 @@ description: Learn how you can implement modern DevOps practices with Azure, Azu
 							<img src="/images/new-tag.png" alt="new-tag" class="align-on-labs">
 							</div>
 						</a>
-				</div>					
+				</div>
 			</div>
 		</div>	
 		</div>
