@@ -30,7 +30,7 @@ The 2019 (Spring Update) includes Microsoft Azure DevOps Server VM and the accom
 
 ## Downloading the VM
 
-The size of the download is about 18 GB. It is recommended that you use a download manager  like [**Free download manager**](http://www.freedownloadmanager.org/){:target="_blank"} or [**Download Accelerator Plus**](http://www.speedbit.com/dap/){:target="_blank"}.
+The size of the download is about 30 GB. It is recommended that you use a download manager  like [**Free download manager**](http://www.freedownloadmanager.org/){:target="_blank"} or [**Download Accelerator Plus**](http://www.speedbit.com/dap/){:target="_blank"}.
 
 These utility provide:
 
